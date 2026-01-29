@@ -2,9 +2,6 @@
 
 A clean, single-page resume website built strictly using **HTML**. This project demonstrates the use of semantic HTML tags and table-based layouts to structure professional content without the use of external or internal CSS.
 
-## 🚀 Live Demo
-[Insert your GitHub Pages link here]
-
 ## 📸 Screenshot
 ![Resume Screenshot](screenshot.png) 
 
@@ -22,7 +19,7 @@ A clean, single-page resume website built strictly using **HTML**. This project 
 ## ⚙️ Setup & Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com//HTML_Resume.git
+   git clone https://github.com/UdayiniKhushi/HTML_Resume.git
    ```
 2. **Open the project**:
    - Navigate to the folder.
